@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 #!/bin/bash
 echo "ALX School is so cool and amazing!"
+HEAD
 =======
 #!/bin/bash
 echo "ALX School"
